@@ -4,3 +4,4 @@ for i in range (32,48):
     print("[",i,"=",c,"]",end="")
     if (i % 10 == 0):
         print("\n")
+ 
